@@ -69,7 +69,4 @@ smart_classroom/
 
 [Watch the project presentation at the expo]([Presentation](https://drive.google.com/file/d/1aRWDXM72NurcENM3LAKull8CcfH0-_yj/view?usp=sharing))
 
-## Project Status
-
-Academic mini-project prototype using low-voltage DC fans and lights.
 
