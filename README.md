@@ -63,10 +63,11 @@ smart_classroom/
 
 ### Project Demo
 
-[Watch the project demonstration]([Demo](https://drive.google.com/file/d/1bbCJaS_sHcuXeVkN4cuymddTlO2UcbyY/view?usp=sharing))
+[Watch the project demonstration](https://drive.google.com/file/d/1bbCJaS_sHcuXeVkN4cuymddTlO2UcbyY/view?usp=sharing)
 
 ### Project Presentation
 
-[Watch the project presentation at the expo]([Presentation](https://drive.google.com/file/d/1aRWDXM72NurcENM3LAKull8CcfH0-_yj/view?usp=sharing))
+[Watch the project presentation at the expo](https://drive.google.com/file/d/1aRWDXM72NurcENM3LAKull8CcfH0-_yj/view?usp=sharing)
+
 
 
